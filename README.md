@@ -1,0 +1,2 @@
+# excercise
+homework for CQ
